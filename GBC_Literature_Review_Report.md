@@ -1,6 +1,6 @@
 # AI-Based Gallbladder Cancer Detection: A Literature Review of Three Foundational Studies
 
-**Prepared for:** B.Tech Final-Year Research Project (BTP) — AI-Based Gallbladder Cancer Detection
+**Prepared for:** B.Tech Pre-Final-Year Research Project (BTP) — AI-Based Gallbladder Cancer Detection
 **Domain:** Medical Image Analysis · Deep Learning · Ultrasound Diagnostics
 **Review Scope:** Three sequential, methodologically linked studies from the IIT Delhi–PGIMER Chandigarh research collaboration
 
